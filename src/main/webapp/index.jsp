@@ -1,6 +1,13 @@
-<html lang="en">
-   <body>
-       <h2>Hello World!</h2>
-       <h2>Automatisation du deploiement Maven avec Jenkins, Tomcat et Nexus</h2>
-   </body>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DevOps</title>
+</head>
+<body>
+      <h1>Hello World!</h1>
+       <p>Automatisation du deploiement Maven avec Jenkins, Tomcat et Nexus</p>
+</body>
 </html>
+
